@@ -1,7 +1,13 @@
 aid: pine
 name: Pine
-description: 'Pine is a company surfaced as a portfolio company of greylock and added to the API Evangelist
-  network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Pine is a Canadian digital-first mortgage lender and real estate brokerage
+  (Pine Canada Financial Corporation / Pine Real Estate Brokerage) that makes home
+  buying more accessible for Canadians through an online platform offering low interest
+  rates, fast pre-approvals, and zero hidden fees. Backed by Greylock, Pine pairs mortgage
+  origination with a REALTOR-affiliated brokerage licensed across multiple provinces
+  (ON, AB, SK, NS, NB, NL), and reports more than $2B in mortgages funded and 100,000+
+  clients served. Pine is a consumer fintech product with no public developer API;
+  its backend at api.pine.ca is a private, authenticated service.'
 url: https://raw.githubusercontent.com/api-evangelist/pine/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +15,30 @@ x-backed-by:
 - greylock
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://d2kb91gpwq1s22.cloudfront.net/metadata/pine.webp
 tags:
 - Company
 - Fintech
+- Mortgage
+- Real Estate
+- Lending
+- Home Buying
+- Financial Services
+- Canada
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +48,22 @@ maintainers:
 common:
 - type: Website
   url: https://www.pine.ca/
+- type: SignUp
+  url: https://www.pine.ca/signup
+- type: Login
+  url: https://www.pine.ca/login
+- type: Support
+  url: mailto:hello@pine.ca
+- type: Blog
+  url: https://www.pine.ca/resources
+- type: PrivacyPolicy
+  url: https://www.pine.ca/privacy-policy
+- type: TermsOfService
+  url: https://assets.website-files.com/610bf2053f122496c60b567d/63b6ffd36a738fc1d9946f72_Pine_Terms%20%2B%20Conditions.pdf
+- type: DomainSecurity
+  url: security/pine-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
