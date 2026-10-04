@@ -45,10 +45,10 @@ tags:
 - Company
 - Fintech
 - Mortgage
-- Real-Estate
+- Real Estate
 - Lending
 - Home Buying
-- Financial-Services
+- Financial Services
 - Canada
 tags_raw:
 - Company
@@ -59,6 +59,8 @@ tags_raw:
 - Home Buying
 - Financial Services
 - Canada
+- Real-Estate
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
