@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pine is a company surfaced as a portfolio company of greylock and added to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.
+Pine is a Canadian digital-first mortgage lender and real estate brokerage (Pine Canada Financial Corporation / Pine Real Estate Brokerage) that makes home buying more accessible for Canadians through an online platform offering low interest rates, fast pre-approvals, and zero hidden fees. Backed by Greylock, Pine pairs mortgage origination with a REALTOR-affiliated brokerage licensed across multiple provinces (ON, AB, SK, NS, NB, NL), and reports more than $2B in mortgages funded and 100,000+ clients served. Pine is a consumer fintech product with no public developer API; its backend at api.pine.ca is a private, authenticated service.
 
-Backed by: greylock — https://www.pine.ca/
+**Areas:** Company · Fintech · Mortgage · Real Estate · Lending · Home Buying · Financial Services · Canada
+
+## Pine on APIs.io
+
+Everything profiled for Pine is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pine/](https://apis.io/providers/pine/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pine Domain Security](https://apis.io/security/pine/pine-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.pine.ca/)
+- [Sign up](https://www.pine.ca/signup)
+- [Blog](https://www.pine.ca/resources)
+- [Terms of service](https://assets.website-files.com/610bf2053f122496c60b567d/63b6ffd36a738fc1d9946f72_Pine_Terms%20%2B%20Conditions.pdf)
+- [Privacy policy](https://www.pine.ca/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 10.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 6.0 |
+| Access clarity | 22.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pine/](https://apis.io/providers/pine/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Pine: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pine/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
